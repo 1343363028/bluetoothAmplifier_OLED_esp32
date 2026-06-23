@@ -4,7 +4,13 @@
       "Bash(git init *)",
       "Bash(git branch *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git remote *)",
+      "Bash(git push *)",
+      "Bash(unzip -o bluetoothAmplifier_OLED.zip -d extracted)",
+      "Bash(mv extracted/bluetoothAmplifier_OLED ./bluetoothAmplifier_OLED)",
+      "Bash(rm -rf extracted bluetoothAmplifier_OLED.zip)",
+      "Bash(mv 项目总结.md README.md)"
     ]
   }
 }
